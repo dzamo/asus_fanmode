@@ -1,8 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: asus-fanmode
-Source: <url://example.com>
-#
-# Please double check copyright with the licensecheck(1) command.
+Source: https://github.com/leonmaxx/asus_fanmode
 
 Files:     Makefile
            README.md
@@ -13,15 +11,11 @@ Files:     Makefile
            config.cpp
            config.hpp
            file.hpp
-Copyright: __NO_COPYRIGHT_NOR_LICENSE__
-License:   __NO_COPYRIGHT_NOR_LICENSE__
+Copyright: 2019, Leonid Maksymchuk
+License: BSD-2-Clause
 
 #----------------------------------------------------------------------------
-# Files marked as NO_LICENSE_TEXT_FOUND may be covered by the following
-# license/copyright files.
-
-#----------------------------------------------------------------------------
-# License file: LICENSE
+License: BSD-2-Clause
  BSD 2-Clause License
  .
  Copyright (c) 2019, Leonid Maksymchuk
