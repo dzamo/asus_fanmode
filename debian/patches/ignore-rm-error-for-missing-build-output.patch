@@ -1,0 +1,11 @@
+--- a/Makefile
++++ b/Makefile
+@@ -9,7 +9,7 @@
+ 
+ CXX?=g++
+ CXXFLAGS+=-std=c++11 -O2 -g -Wall
+-RM=rm
++RM=rm -f
+ INSTALL=/usr/bin/install
+ 
+ all: asus_fanmode
