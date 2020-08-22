@@ -1,0 +1,6 @@
+asus-fanmode (0.3.0-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- James Turton <james@somecomputer.xyz>  Sat, 22 Aug 2020 09:52:42 +0200
